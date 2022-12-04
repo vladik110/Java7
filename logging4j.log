@@ -1,0 +1,25 @@
+2022-12-01 14:50:56 [INFO ] FXMLDocumentController:56 - Start button action
+2022-12-01 14:50:56 [ERROR] FXMLDocumentController:87 - Error! Division by zero.
+2022-12-01 14:50:56 [INFO ] FXMLDocumentController:89 - End button action
+2022-12-01 14:51:51 [INFO ] FXMLDocumentController:57 - Start log4j
+2022-12-01 14:51:51 [ERROR] FXMLDocumentController:87 - Error!
+2022-12-01 14:51:51 [FATAL] FXMLDocumentController:88 - Fatal error!
+2022-12-01 14:51:58 [INFO ] FXMLDocumentController:57 - Start log4j
+2022-12-01 14:51:59 [INFO ] FXMLDocumentController:95 - Start clean!
+2022-12-01 14:51:59 [INFO ] FXMLDocumentController:100 - End clean!
+2022-12-01 14:51:59 [INFO ] FXMLDocumentController:105 - End log4j
+2022-12-02 15:10:27 [INFO ] FXMLDocumentController:57 - Start log4j
+2022-12-02 15:29:07 [INFO ] FXMLDocumentController:57 - Start log4j
+2022-12-02 15:29:11 [INFO ] FXMLDocumentController:95 - Start clean!
+2022-12-02 15:29:11 [INFO ] FXMLDocumentController:100 - End clean!
+2022-12-02 15:29:12 [INFO ] FXMLDocumentController:105 - End log4j
+2022-12-02 15:44:31 [INFO ] FXMLDocumentController:57 - Start log4j
+2022-12-02 15:44:36 [INFO ] FXMLDocumentController:95 - Start clean!
+2022-12-02 15:44:36 [INFO ] FXMLDocumentController:100 - End clean!
+2022-12-02 15:45:12 [INFO ] FXMLDocumentController:57 - Start log4j
+2022-12-02 15:45:13 [INFO ] FXMLDocumentController:95 - Start clean!
+2022-12-02 15:45:13 [INFO ] FXMLDocumentController:100 - End clean!
+2022-12-02 15:46:59 [INFO ] FXMLDocumentController:57 - Start log4j
+2022-12-02 15:47:04 [INFO ] FXMLDocumentController:95 - Start clean!
+2022-12-02 15:47:04 [INFO ] FXMLDocumentController:100 - End clean!
+2022-12-02 15:47:05 [INFO ] FXMLDocumentController:105 - End log4j

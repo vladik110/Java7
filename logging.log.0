@@ -1,0 +1,28 @@
+2022-12-01 14:51:34 [INFO   ] javafxapplication.JavaFXApplication - Start window 
+2022-12-01 14:51:47 [INFO   ] javafxapplication.JavaFXApplication - Запись лога с уровнем INFO (информационная) 
+2022-12-01 14:51:47 [WARNING] javafxapplication.JavaFXApplication - Запись лога с уровнем WARNING (Предупреждение) 
+2022-12-01 14:51:47 [SEVERE ] javafxapplication.JavaFXApplication - Запись лога с уровнем SEVERE (серъёзная ошибка) 
+2022-12-01 14:51:47 [SEVERE ] javafxapplication.JavaFXApplication - My Exception: ERR! 
+2022-12-01 14:51:47 [INFO   ] javafxapplication.JavaFXApplication - Launcher is running 
+2022-12-02 15:10:03 [INFO   ] javafxapplication.JavaFXApplication - Запись лога с уровнем INFO (информационная) 
+2022-12-02 15:10:03 [WARNING] javafxapplication.JavaFXApplication - Запись лога с уровнем WARNING (Предупреждение) 
+2022-12-02 15:10:03 [SEVERE ] javafxapplication.JavaFXApplication - Запись лога с уровнем SEVERE (серъёзная ошибка) 
+2022-12-02 15:10:03 [SEVERE ] javafxapplication.JavaFXApplication - My Exception: ERR! 
+2022-12-02 15:10:04 [INFO   ] javafxapplication.JavaFXApplication - Launcher is running 
+2022-12-02 15:10:52 [INFO   ] javafxapplication.JavaFXApplication - Start window 
+2022-12-02 15:28:56 [INFO   ] javafxapplication.JavaFXApplication - Запись лога с уровнем INFO (информационная) 
+2022-12-02 15:28:56 [WARNING] javafxapplication.JavaFXApplication - Запись лога с уровнем WARNING (Предупреждение) 
+2022-12-02 15:28:56 [SEVERE ] javafxapplication.JavaFXApplication - Запись лога с уровнем SEVERE (серъёзная ошибка) 
+2022-12-02 15:28:56 [SEVERE ] javafxapplication.JavaFXApplication - My Exception: ERR! 
+2022-12-02 15:28:56 [INFO   ] javafxapplication.JavaFXApplication - Launcher is running 
+2022-12-02 15:44:24 [INFO   ] javafxapplication.JavaFXApplication - Запись лога с уровнем INFO (информационная) 
+2022-12-02 15:44:24 [WARNING] javafxapplication.JavaFXApplication - Запись лога с уровнем WARNING (Предупреждение) 
+2022-12-02 15:44:24 [SEVERE ] javafxapplication.JavaFXApplication - Запись лога с уровнем SEVERE (серъёзная ошибка) 
+2022-12-02 15:44:24 [SEVERE ] javafxapplication.JavaFXApplication - My Exception: ERR! 
+2022-12-02 15:44:24 [INFO   ] javafxapplication.JavaFXApplication - Launcher is running 
+2022-12-02 15:44:46 [INFO   ] javafxapplication.JavaFXApplication - Start window 
+2022-12-02 15:45:10 [INFO   ] javafxapplication.JavaFXApplication - Запись лога с уровнем INFO (информационная) 
+2022-12-02 15:45:10 [WARNING] javafxapplication.JavaFXApplication - Запись лога с уровнем WARNING (Предупреждение) 
+2022-12-02 15:45:10 [SEVERE ] javafxapplication.JavaFXApplication - Запись лога с уровнем SEVERE (серъёзная ошибка) 
+2022-12-02 15:45:10 [SEVERE ] javafxapplication.JavaFXApplication - My Exception: ERR! 
+2022-12-02 15:45:10 [INFO   ] javafxapplication.JavaFXApplication - Launcher is running 
